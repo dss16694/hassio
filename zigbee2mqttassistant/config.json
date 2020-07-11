@@ -26,7 +26,7 @@
     "ports_description": {
         "80/tcp": "GUI http access (not required for HASS.IO ingress)"
     },
-    "image": "dss16694/zigbee2mqttassistant",
+    "image": "carldebilly/zigbee2mqttassistant",
     "ingress": true,
     "ingress_port": 80,
     "panel_icon": "mdi:mixcloud",
